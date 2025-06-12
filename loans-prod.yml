@@ -5,7 +5,7 @@ loans:
   message: "Welcome to nhtbank accounts related local APIs"
   contactDetails:
     name: "Aladin mosby - Developer"
-    email: "aladin@nhtbank.com"
+    email: "mosby@nhtbank.com"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345

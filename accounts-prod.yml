@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to nhtbank accounts related local APIs"
   contactDetails:
     name: "Aladin mosby - Developer"
-    email: "433b6ec36b4736ac6b5fcb6c0d093b23bb91cb458dd666b3447a4f944253b0c8982c6644890295077d8a28b23ece43d0"
+    email: "{cipher}433b6ec36b4736ac6b5fcb6c0d093b23bb91cb458dd666b3447a4f944253b0c8982c6644890295077d8a28b23ece43d0"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345

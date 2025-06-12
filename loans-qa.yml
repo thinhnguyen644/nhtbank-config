@@ -1,0 +1,11 @@
+build:
+  version: 2.0.0
+
+accounts:
+  message: "Welcome to nhtbank accounts related local APIs"
+  contactDetails:
+    name: "Alibaba mosby - Developer"
+    email: "alibaba@nhtbank.com"
+  onCallSupport:
+    - (666) 555-1234
+    - (666) 523-1345
